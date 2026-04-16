@@ -1,1 +1,1 @@
-# Personal-course-organize
+# Personal-course-organizer
